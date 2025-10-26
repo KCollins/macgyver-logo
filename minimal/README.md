@@ -1,4 +1,6 @@
 # Minimal MacGyver Logo
+<img width="528" height="744" alt="image" src="https://github.com/user-attachments/assets/a2b3625b-da5e-4c40-8d43-78817dd0ffdd" />
+
 This logo is suitable for single-color applications, where a coat of arms or crest would be too much.
 
 ## Inspiration and Design
