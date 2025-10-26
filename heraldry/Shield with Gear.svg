@@ -36,7 +36,8 @@
      stroke="#000"
      stroke-width="4"
      d="m2,2v280c0,220 212,271 234,280c22-9 234-60 234-280V2z"
-     id="path1" />
+     id="path1"
+     style="fill:#ffcc00" />
   <path
      id="path1-0"
      style="display:inline;fill:#0099b0;fill-opacity:1;stroke:none;stroke-width:1.00001"
